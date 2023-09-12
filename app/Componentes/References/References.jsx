@@ -15,7 +15,7 @@ export default function References() {
                   <div className={styles.itemSingle}>
                      <div className={styles.img}></div>
                      <h1>Documentário completo - Pipoca & Nanquim</h1>
-                     <p>A editora que quadrinhos brasileira Pipoca & Nanquim criou um vídeo super didático e informativo sobre a censura das hq's.</p>
+                     <p>A editora que quadrinhos brasileira Pipoca & Nanquim criou um vídeo super didático e informativo sobre a censura das hq&apos;s.</p>
                      <span>ACESSAR</span>
                   </div>
                </Link>

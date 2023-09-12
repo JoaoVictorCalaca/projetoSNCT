@@ -12,7 +12,7 @@ export default function Fredric() {
 
                 <div>
                     <h2>Introdução</h2>
-                    <p className='text'>O Comics Code Authority (CCA), estabelecido em 1954, foi uma organização de autorregulação que impôs diretrizes estritas sobre o conteúdo das histórias em quadrinhos nos Estados Unidos. Criado em resposta às preocupações levantadas pelo psiquiatra Fredric Wertham em seu livro "Sedução dos Inocentes," o CCA tinha como objetivo mitigar as críticas de que os quadrinhos estavam corrompendo a juventude americana. Neste artigo, exploraremos o funcionamento do Comics Code Authority e as críticas que surgiram em relação à sua regulamentação na indústria de quadrinhos.</p>
+                    <p className='text'>O Comics Code Authority (CCA), estabelecido em 1954, foi uma organização de autorregulação que impôs diretrizes estritas sobre o conteúdo das histórias em quadrinhos nos Estados Unidos. Criado em resposta às preocupações levantadas pelo psiquiatra Fredric Wertham em seu livro &quot;Sedução dos Inocentes,&quot; o CCA tinha como objetivo mitigar as críticas de que os quadrinhos estavam corrompendo a juventude americana. Neste artigo, exploraremos o funcionamento do Comics Code Authority e as críticas que surgiram em relação à sua regulamentação na indústria de quadrinhos.</p>
                 </div>
 
                 <div>
@@ -33,7 +33,7 @@ export default function Fredric() {
 
                 <div>
                     <h2>Críticas ao Comics Code Authority</h2>
-                    <p className='text'>Apesar de seus objetivos de proteger a juventude e promover conteúdo mais "seguro" nos quadrinhos, o Comics Code Authority enfrentou críticas significativas ao longo dos anos:</p>
+                    <p className='text'>Apesar de seus objetivos de proteger a juventude e promover conteúdo mais &quot;seguro&quot; nos quadrinhos, o Comics Code Authority enfrentou críticas significativas ao longo dos anos:</p>
                 </div>
 
                 <div>

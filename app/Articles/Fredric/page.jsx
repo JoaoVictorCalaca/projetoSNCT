@@ -12,7 +12,7 @@ export default function Fredric() {
 
                 <div>
                     <h2>Introdução</h2>
-                    <p className='text'>Fredric Wertham, um psiquiatra alemão-americano nascido em 1895, desempenhou um papel fundamental na história dos quadrinhos, embora sua influência tenha sido marcada por controvérsias. Wertham é conhecido principalmente por seu livro "Sedução dos Inocentes," publicado em 1954, que criticava severamente a indústria de quadrinhos por seu suposto papel na corrupção da juventude. Neste artigo, exploraremos a vida e o legado de Fredric Wertham, bem como o impacto de seu trabalho nas histórias em quadrinhos e na cultura popular.</p>
+                    <p className='text'>Fredric Wertham, um psiquiatra alemão-americano nascido em 1895, desempenhou um papel fundamental na história dos quadrinhos, embora sua influência tenha sido marcada por controvérsias. Wertham é conhecido principalmente por seu livro &quot;Sedução dos Inocentes,&quot; publicado em 1954, que criticava severamente a indústria de quadrinhos por seu suposto papel na corrupção da juventude. Neste artigo, exploraremos a vida e o legado de Fredric Wertham, bem como o impacto de seu trabalho nas histórias em quadrinhos e na cultura popular.</p>
                 </div>
 
                 <div>
@@ -21,14 +21,14 @@ export default function Fredric() {
                 </div>
 
                 <div>
-                    <h2>O Livro "Sedução dos Inocentes"</h2>
-                    <p className='text'>Em 1954, Wertham publicou seu livro mais famoso, "Sedução dos Inocentes: Os Efeitos dos Quadrinhos sobre a Mente das Crianças." Neste livro, ele argumentava que os quadrinhos eram uma influência prejudicial para as crianças, alegando que eles promoviam a delinquência juvenil, a violência e a promiscuidade. Ele citou exemplos de histórias em quadrinhos que retratavam violência gráfica e temas adultos.</p>
+                    <h2>O Livro &quot;Sedução dos Inocentes&quot;</h2>
+                    <p className='text'>Em 1954, Wertham publicou seu livro mais famoso, &quot;Sedução dos Inocentes: Os Efeitos dos Quadrinhos sobre a Mente das Crianças.&quot; Neste livro, ele argumentava que os quadrinhos eram uma influência prejudicial para as crianças, alegando que eles promoviam a delinquência juvenil, a violência e a promiscuidade. Ele citou exemplos de histórias em quadrinhos que retratavam violência gráfica e temas adultos.</p>
                     <p className='text'>Wertham também alegou que os quadrinhos eram racialmente preconceituosos e perpetuavam estereótipos negativos. Ele argumentou que personagens como o Batman e o Robin tinham conotações homossexuais, o que foi amplamente contestado pela indústria de quadrinhos.</p>
                 </div>
 
                <div>
                     <h2>O Impacto e as Controvérsias</h2>
-                    <p className='text'>A publicação de "Sedução dos Inocentes" teve um impacto imediato e significativo na indústria de quadrinhos. Muitos pais e educadores ficaram alarmados com as alegações de Wertham, e houve um clamor por regulamentações mais rígidas nos quadrinhos. Isso levou à criação do Comics Code Authority (CCA), um código de autorregulação que impôs diretrizes estritas sobre o conteúdo dos quadrinhos.</p>
+                    <p className='text'>A publicação de &quot;Sedução dos Inocentes&quot; teve um impacto imediato e significativo na indústria de quadrinhos. Muitos pais e educadores ficaram alarmados com as alegações de Wertham, e houve um clamor por regulamentações mais rígidas nos quadrinhos. Isso levou à criação do Comics Code Authority (CCA), um código de autorregulação que impôs diretrizes estritas sobre o conteúdo dos quadrinhos.</p>
                     <p className='text'>Muitos editores de quadrinhos foram forçados a cancelar títulos e suavizar o conteúdo de suas histórias para cumprir as regras do CCA. Isso resultou em uma era de maior conformidade e conteúdo mais seguro para os leitores mais jovens, mas também limitou a criatividade dos criadores de quadrinhos.</p>
                </div>
 
@@ -40,7 +40,7 @@ export default function Fredric() {
 
                <div>
                     <h2>Conclusão</h2>
-                    <p className='text'>Fredric Wertham é uma figura polêmica na história dos quadrinhos, conhecida por seu livro "Sedução dos Inocentes" e sua crítica contundente à indústria de quadrinhos. Enquanto sua influência levou à criação do Comics Code Authority e a mudanças significativas no conteúdo das histórias em quadrinhos, também gerou controvérsias e debates sobre a liberdade de expressão e a responsabilidade na mídia.</p>
+                    <p className='text'>Fredric Wertham é uma figura polêmica na história dos quadrinhos, conhecida por seu livro &quot;Sedução dos Inocentes&quot; e sua crítica contundente à indústria de quadrinhos. Enquanto sua influência levou à criação do Comics Code Authority e a mudanças significativas no conteúdo das histórias em quadrinhos, também gerou controvérsias e debates sobre a liberdade de expressão e a responsabilidade na mídia.</p>
                     <p className='text'>Independentemente das opiniões sobre Wertham, sua história destaca a importância do equilíbrio entre a liberdade criativa e a responsabilidade na criação de conteúdo para jovens leitores. A influência de Wertham continua a ser sentida na indústria de quadrinhos, servindo como um lembrete dos desafios enfrentados pelos criadores de mídia e os críticos que buscam influenciar a cultura popular.</p>
                </div>
             </article>
