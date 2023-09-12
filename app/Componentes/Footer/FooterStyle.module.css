@@ -1,0 +1,29 @@
+.top {
+    height: 400px;
+    width: 100%;
+    background-image: url('../../../public/final-image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bottom h1 {
+    color: #349730;
+    padding: 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bottom .links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    padding: 3%;
+}
+
+.bottom .links a {
+    color: #042703;
+    border: 1px solid #349730;
+    border-radius: 8px;
+    padding: 5px;
+    width: 60%;
+}

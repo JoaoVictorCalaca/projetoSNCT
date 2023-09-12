@@ -1,0 +1,53 @@
+main {
+    padding: 2% 4%;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    flex-direction: column;
+}
+
+article header a {
+    color: #fff;
+    background-color: #349730;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 8px;
+    transition: .5s;
+    text-decoration: none;
+} article header a:hover {
+    transform: scale(1.05);
+}
+
+article div {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+articles h1 {
+    color: #349730;
+    font-size: 50px;
+    text-align: center;
+}
+
+articles h2 {
+    font-size: 30px;
+}
+
+main .text {
+    text-indent: 30px;
+    color: #333333;
+    font-size: 17px;
+}
+
+
