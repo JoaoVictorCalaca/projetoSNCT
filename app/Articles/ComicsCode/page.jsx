@@ -1,13 +1,13 @@
 import '../../Articles/pageStyle.css'
 import Link from 'next/link';
 
-export default function Fredric() {
+export default function ComicsCode() {
     return (
         <main>
             <article>
                 <header>
                     <Link href='/'>↩ Voltar à página inicial</Link>
-                    <h1>Fredric Wertham</h1>
+                    <h1>Comics Code Authority</h1>
                 </header>
 
                 <div>

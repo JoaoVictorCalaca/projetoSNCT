@@ -1,0 +1,38 @@
+.main {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding: 20px 0;
+   gap: 3%;
+}
+
+.main .text {
+   display: flex;
+   flex-direction: column;
+   gap: 40px;
+   padding: 50px;
+}
+
+.main .sorteio {
+   margin-bottom: 3%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   background-color: #fff;
+   color: #349730;
+   box-shadow: 5px 5px 5px 5px #0000005a;
+   gap: 20px;
+   padding: 15px;
+}
+
+.main a {
+   color: #fff;
+   background-color: #349730;
+   font-weight: bold;
+   padding: 10px;
+   border-radius: 8px;
+   transition: .5s;
+   text-decoration: none;
+}
+
+.main .sorteio img { height: auto;}

@@ -6,7 +6,11 @@ export default function Footer() {
     return (
         <>
             <footer className={st.main}>
-                <div className={st.top}></div>
+                <div className={st.top}>
+                    <div className={st.about}>
+                        <Link href='Articles/About' title="Saiba mais sobre o projeto">Sobre o evento</Link>
+                    </div>
+                </div>
 
                 <div className={st.bottom}>
                     <h1>Ref. bibliográficas</h1>
